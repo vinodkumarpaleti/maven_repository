@@ -1,4 +1,6 @@
-mvn validate: This step validates if the project structure is correct. For example – It checks if all the dependencies have been downloaded and are available in the local repository.
+mvn validate: This step validates if the project structure is correct. 
+
+For example – It checks if all the dependencies have been downloaded and are available in the local repository.
 
 mvn compile: It compiles the source code, converts the .java files to .class and stores the classes in target/classes folder.
 
@@ -15,7 +17,7 @@ mvn install: This step installs the packaged code to the local Maven repository.
 mvn deploy: It copies the packaged code to the remote repository for sharing it with other developers.
 
 
-#######################
+##############################
 
 Javac Error: javac : command not found
 
